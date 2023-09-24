@@ -1,0 +1,10 @@
+{
+    "name": "anonmous",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "server": "cd backend && yarn start",
+        "client": "cd anon && yarn start"
+    },
+    "dependencies": {}
+}
